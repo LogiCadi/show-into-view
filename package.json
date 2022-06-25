@@ -1,0 +1,10 @@
+{
+  "name": "show-into-view",
+  "version": "1.0.1",
+  "description": "scroll the element to the viewable area",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": ["scroll"],
+  "author": "mm996",
+  "license": "MIT"
+}
